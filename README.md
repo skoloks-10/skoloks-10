@@ -17,9 +17,8 @@
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=skoloks-10)](https://solved.ac/skoloks)
 
-  <div>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skoloks-10)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-<div>
+
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=skoloks-10)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+

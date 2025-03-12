@@ -10,7 +10,7 @@
 
 ⚾; Game, Music, Finance etc.. (All of things in the world &#128518;)
 
-[🏠 this is my Notion](https://tentasys.github.io/](http://linen-artichoke-b37.notion.site/1b42ad07fb208075af7af79b6499a65f?pvs=74)
+[🏠 this is my Portfolio](https://tentasys.github.io/](http://linen-artichoke-b37.notion.site/1b42ad07fb208075af7af79b6499a65f?pvs=74)
 
 
 [![SEUNG HOON's GitHub stats](https://github-readme-stats.vercel.app/api?username=skoloks-10&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)

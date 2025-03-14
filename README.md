@@ -2,9 +2,9 @@
 
 👨‍🎓 Catholic University of Korea, School of Computer Science and Information Engineering (2021 ~ 2025)
 
-💼 kwangjinpowert, Shopping site Development Manager (2017.02 ~ 2020.02)
+💼 KwangjinPowert, Shopping site Development Manager (2017.02 ~ 2020.02)
 
-📖 ESTsoft Ormi Developer Training Program, Graduated with top honors (2025.02 ~ 2025.07)
+📖 ESTsoft Developer Training Program, Graduated with top honors (2025.02 ~ 2025.07)
 
 📖 preparing to get a job (2025.07 ~)
 

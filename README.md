@@ -4,7 +4,7 @@
 
 💼 KwangjinPowert, Shopping site Development Manager (2017.02 ~ 2020.02)
 
-📖 ESTsoft Developer Training Program, Graduated with top honors (2025.02 ~ 2025.07)
+📖 ESTsoft Developer Training Program (2025.02 ~ 2025.07)
 
 📖 preparing to get a job (2025.07 ~)
 

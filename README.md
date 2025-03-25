@@ -6,7 +6,7 @@
 
 📖 ESTsoft Developer Training Program (2025.02 ~ 2025.07)
 
-📖 preparing to get a job (2025.07 ~)
+📖 preparing to get a job (2025.02 ~)
 
 ⚾ Baseball, 🏃Running, ⛷️Ski
 

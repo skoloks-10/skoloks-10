@@ -6,7 +6,7 @@
 
 📖 ESTsoft Developer Training Program (2025.02 ~ 2025.07)
 
-📖 Naver BoostCamp Web (2025.06 ~ 2025.08)
+📖 Naver BoostCamp Web (2025.07 ~ 2025.09)
 
 📖 preparing to get a job (2025.02 ~)
 

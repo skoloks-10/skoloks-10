@@ -14,8 +14,3 @@
 
 [🏠 this is my Portfolio](https://skoloks.notion.site/1cadaf37c9e281dc90c9cb22281e8087)
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=skoloks-10)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skoloks-10)](https://github.com/anuraghazra/github-readme-stats)
-
